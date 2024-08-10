@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "The is a project for ROAD TO BACK-END DEVELOPER BOOTCAMP #2 course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritsanaphong-t/ecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kritsanaphong-t/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/kritsanaphong-t/ecommerce-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
